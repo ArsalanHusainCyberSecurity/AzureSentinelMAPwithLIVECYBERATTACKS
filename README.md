@@ -18,23 +18,23 @@ I utilized Azure Sentinel by connecting it to a virtual machine serving as a hon
 
 <p align="center">
 Create a honeypot virtual machine in Azure with all open ports: <br/>
-<img src="https://imgur.com/a/IvgQQJ5" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ipfmU03.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Create a log analytics workspace:  <br/>
-<img src="https://cdn.discordapp.com/attachments/1130858870668001320/1130859947010314320/image.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ibg79C8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Store all window security event data: <br/>
-<img src="https://cdn.discordapp.com/attachments/1130858870668001320/1130862902967017553/image.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ibg79C8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Connect honeypot to log analytics workspace:  <br/>
-<img src="https://cdn.discordapp.com/attachments/1130858870668001320/1130863173327663116/image.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IsdoPg5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Grab event for incorrect login attempt:  <br/>
-<img src="https://cdn.discordapp.com/attachments/1130858870668001320/1130867885628211300/image.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bskz0jE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Allow ICMP Requests:  <br/>
