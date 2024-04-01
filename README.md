@@ -18,7 +18,7 @@ I utilized Azure Sentinel by connecting it to a virtual machine serving as a hon
 
 <p align="center">
 Create a honeypot virtual machine in Azure with all open ports: <br/>
-<img src="https://imgur.com/undefined" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/IvgQQJ5" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Create a log analytics workspace:  <br/>
