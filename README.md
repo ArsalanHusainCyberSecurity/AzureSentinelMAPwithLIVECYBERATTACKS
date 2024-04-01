@@ -38,27 +38,28 @@ Grab event for incorrect login attempt:  <br/>
 <br />
 <br />
 Allow ICMP Requests:  <br/>
-<img src="https://cdn.discordapp.com/attachments/1130858870668001320/1130869399826481312/image.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HZQyr7y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Ran powershell script that auto logs geolocation via API:  <br/>
-<img src="https://cdn.discordapp.com/attachments/1130858870668001320/1130870440441696256/image.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ES5nCMq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Ensured logging was working in the script:  <br/>
-<img src="https://cdn.discordapp.com/attachments/1130858870668001320/1130871983370940426/image.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/zSHzYth/image.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Created a custom log in sentinel:  <br/>
-<img src="https://cdn.discordapp.com/attachments/1130858870668001320/1130874814886838403/image.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/W28x3d7/image.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Connect Azure to logging information and correctly extract the info:  <br/>
-<img src="https://cdn.discordapp.com/attachments/1130858870668001320/1130884050937188463/image.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/vj4ts8b/im33333age.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+ <img src="https://i.ibb.co/6XTPNhv/ima22222ge.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Watch as the attacks come in:  <br/>
-<img src="https://cdn.discordapp.com/attachments/252187633046913026/1131167762035781703/image.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ipfmU03.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
